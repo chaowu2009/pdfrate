@@ -1,0 +1,5 @@
+python-dateutil
+numpy
+scipy
+scikit_learn
+matplotlib
